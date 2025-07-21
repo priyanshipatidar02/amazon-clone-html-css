@@ -8,9 +8,11 @@ This project helped me practice Flexbox, layout techniques, and styling inspired
 
 ## full page view
 <img width="1470" height="956" alt="Screenshot 2025-07-22 at 4 11 56 AM" src="https://github.com/user-attachments/assets/26350b9f-6abd-469d-bbd6-94b09a099dc7" />
+
 ##  product  boxes
 <img width="1470" height="956" alt="Screenshot 2025-07-22 at 4 12 10 AM" src="https://github.com/user-attachments/assets/b4116b0e-43db-46fa-96dc-d9a4b82589c5" />
 <img width="1470" height="956" alt="Screenshot 2025-07-22 at 4 12 17 AM" src="https://github.com/user-attachments/assets/be9975f0-d733-471b-b973-938e916f47d4" />
+
 ## footer
 <img width="1470" height="956" alt="Screenshot 2025-07-22 at 4 12 24 AM" src="https://github.com/user-attachments/assets/b0afe362-ded4-4bbc-9149-1b2297d6e196" />
 
