@@ -7,8 +7,7 @@ This project helped me practice Flexbox, layout techniques, and styling inspired
 👉 [View on GitHub](https://github.com/priyanshipatidar02/amazon-clone-html-css)
 
 ## 🔗 Live Preview
-👉 [View Website]
-(https://priyanshipatidar02.github.io/amazon-clone-html-css)
+👉 [View Website](https://priyanshipatidar02.github.io/amazon-clone-html-css)
 
 ## full page view
 <img width="1470" height="956" alt="Screenshot 2025-07-22 at 4 11 56 AM" src="https://github.com/user-attachments/assets/26350b9f-6abd-469d-bbd6-94b09a099dc7" />
