@@ -367,7 +367,6 @@ a{
   }
 /* Tablet view: max width 992px */
 @media (max-width: 992px) {
-  /* Shop boxes: make them wider since space is less */
   .box {
     width: 45%; /* from 23% to ~45% */
   }
